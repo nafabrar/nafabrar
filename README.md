@@ -8,11 +8,14 @@
 ### Connect with me:
 
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Google" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" />][[Google]]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Google" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" />][Google]
 
+[Google]: https://scholar.google.com/citations?user=jk0FogcAAAAJ&hl=en
+[linkedin]: https://www.linkedin.com/in/nafis-abrar/
 
 <br />
+
 <!-- 
 ### Languages and Tools:
 
