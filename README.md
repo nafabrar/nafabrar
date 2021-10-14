@@ -3,7 +3,7 @@
 - 🙂 Co-founder/CTO @ [Edutechs](https://edutechs.com) 
 - 🙂 I am also working on Language Models (Transfer Learning/Long Text Classification) Research in University of British Columbia.
 - 🙃 Fun fact: I love to play guitar and read philosophy/history.
-- 🧐 Important fact : I enjoy learning about Deep Learning and am passionate using it to make large scale positive impact on the society 🌎 
+- 🧐 Important fact : I enjoy learning about Deep Learning and am passionate about using it to make a large scale positive impact on the society 🌎 
 
 ### Connect with me:
 
