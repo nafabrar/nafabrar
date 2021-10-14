@@ -3,11 +3,13 @@
 - 🙂 Co-founder/CTO @ [Edutechs](https://edutechs.com) 
 - 🙂 I am also working on Language Models (Transfer Learning/Long Text Classification) Research in University of British Columbia.
 - 🙃 Fun fact: I love to play guitar and read philosophy/history.
+- 🧐 Important fact : I enjoy learning about Deep Learning and am passionate using it to make large scale positive impact on the society 🌎 
 
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Google" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" />][[Google]]
 
 
 <br />
@@ -33,7 +35,7 @@
 
 
 </details>
-
+[Google]: https://scholar.google.com/citations?user=jk0FogcAAAAJ&hl=en
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
