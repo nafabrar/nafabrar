@@ -1,6 +1,6 @@
 ### Hi there, I'm Nafis! I am happy that our paths have crossed ✌🏽
 
-- ⚒ Co-founder/CTO @ [Edutechs](https://edutechs.com) 
+- ⚒ Co-founder/CTO @ [Edutechs](https://edutechs.org/) 
 - 🙂 Research Interests: Attention Language Models / Transfer Learning/Long Text Classification Research in University of British Columbia.
 - 🙃 Fun fact: I love to play guitar and read philosophy/history.
 - 🧐 Important fact : I enjoy learning about Deep Learning and am passionate about using it to make a large scale positive impact on the society 🌎 
